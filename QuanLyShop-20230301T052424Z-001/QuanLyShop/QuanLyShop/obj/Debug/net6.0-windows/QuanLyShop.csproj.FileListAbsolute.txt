@@ -1,0 +1,58 @@
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\QuanLyShop.exe
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\QuanLyShop.deps.json
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\QuanLyShop.runtimeconfig.json
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\QuanLyShop.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\QuanLyShop.pdb
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.fLogin.resources
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\refint\QuanLyShop.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.pdb
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\ref\QuanLyShop.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.fAccountProfile.resources
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.fAdmin.resources
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project PRN211\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.fRoomManager.resources
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\QuanLyShop.exe
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\QuanLyShop.deps.json
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\QuanLyShop.runtimeconfig.json
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\QuanLyShop.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\QuanLyShop.pdb
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.fAccountProfile.resources
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.fAdmin.resources
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.fLogin.resources
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.fRoomManager.resources
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.AssemblyInfo.cs
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\refint\QuanLyShop.dll
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.pdb
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\QuanLyShop.genruntimeconfig.cache
+C:\Users\Admin\Downloads\QuanLyShop-20230301T052424Z-001\QuanLyShop\QuanLyShop\obj\Debug\net6.0-windows\ref\QuanLyShop.dll
